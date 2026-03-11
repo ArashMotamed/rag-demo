@@ -1,0 +1,3 @@
+Artificial intelligence (AI) refers to systems that can perform tasks that normally require human intelligence.
+Examples include speech recognition, decision making and language understanding.
+AI is widely used in robotics, healthcare, finance and many other industries.

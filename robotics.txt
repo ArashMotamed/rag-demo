@@ -1,0 +1,3 @@
+Robotics is a field of engineering that combines mechanics, electronics and software.
+Industrial robots are widely used in manufacturing, automation and production lines.
+Modern robotics often uses machine learning and computer vision to recognize objects.

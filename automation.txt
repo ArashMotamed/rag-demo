@@ -1,0 +1,3 @@
+Automation is the use of control systems and computers to operate machines and processes.
+Industrial automation improves efficiency, safety and productivity in factories.
+Programmable Logic Controllers (PLC) are commonly used to control automated systems.

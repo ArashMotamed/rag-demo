@@ -1,0 +1,3 @@
+Computer vision is a field of artificial intelligence that enables computers to interpret images and videos.
+It is widely used in robotics, autonomous vehicles and quality inspection systems.
+Deep learning models are commonly used for object detection and image classification.
